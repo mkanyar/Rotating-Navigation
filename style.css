@@ -37,8 +37,8 @@ body{
     position:relative;
     transition:transform 0.5s linear;
 }
-.container.show-nav.circle{
- transform:rotate(-150deg);
+.container.show-nav .circle {
+  transform: rotate(-80deg);
 }
 .circle button{
     cursor:pointer;
